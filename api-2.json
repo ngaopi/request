@@ -1,0 +1,257 @@
+{
+    "data": [
+        {
+            "id": "7031",
+            "parent_exercise_id": null,
+            "name": "introduction",
+            "slug": "css_json__introduction_json",
+            "sequence_num": 0,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/css_json/introduction.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7026",
+            "parent_exercise_id": null,
+            "name": "using-css",
+            "slug": "css_json__using-css_json",
+            "sequence_num": 100,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/css_json/using-css.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7033",
+            "parent_exercise_id": null,
+            "name": "css-selectors",
+            "slug": "css_json__css-selectors_json",
+            "sequence_num": 200,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/css_json/css-selectors.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7034",
+            "parent_exercise_id": null,
+            "name": "css-box-model",
+            "slug": "css_json__css-box-model_json",
+            "sequence_num": 300,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/css_json/css-box-model.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7027",
+            "parent_exercise_id": null,
+            "name": "css-borders",
+            "slug": "css_json__css-borders_json",
+            "sequence_num": 400,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/css_json/css-borders.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7028",
+            "parent_exercise_id": null,
+            "name": "introduction-to-flex",
+            "slug": "css_json__introduction-to-flex_json",
+            "sequence_num": 500,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/css_json/introduction-to-flex.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7032",
+            "parent_exercise_id": null,
+            "name": "container-properties-display",
+            "slug": "css_json__container-properties-display_json",
+            "sequence_num": 600,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/css_json/container-properties-display.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7040",
+            "parent_exercise_id": null,
+            "name": "justify-content",
+            "slug": "css_json__justify-content_json",
+            "sequence_num": 700,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/css_json/justify-content.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7029",
+            "parent_exercise_id": null,
+            "name": "flex-direction",
+            "slug": "css_json__flex-direction_json",
+            "sequence_num": 800,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/css_json/flex-direction.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7043",
+            "parent_exercise_id": null,
+            "name": "align-items",
+            "slug": "css_json__align-items_json",
+            "sequence_num": 900,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/css_json/align-items.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7030",
+            "parent_exercise_id": null,
+            "name": "flex-wrap",
+            "slug": "css_json__flex-wrap_json",
+            "sequence_num": 1000,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/css_json/flex-wrap.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7037",
+            "parent_exercise_id": null,
+            "name": "flex-grow",
+            "slug": "css_json__flex-grow_json",
+            "sequence_num": 1100,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/css_json/flex-grow.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7039",
+            "parent_exercise_id": null,
+            "name": "align-self",
+            "slug": "css_json__align-self_json",
+            "sequence_num": 1200,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/css_json/align-self.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7044",
+            "parent_exercise_id": null,
+            "name": "flexboxfroggy",
+            "slug": "css_json__flexboxfroggy_json",
+            "sequence_num": 1300,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/css_json/flexboxfroggy.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7036",
+            "parent_exercise_id": null,
+            "name": "css-flexbox",
+            "slug": "css_json__css-flexbox_json",
+            "sequence_num": 1400,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/css_json/css-flexbox.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7035",
+            "parent_exercise_id": null,
+            "name": "css3-forms",
+            "slug": "css_json__css3-forms_json",
+            "sequence_num": 1500,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/css_json/css3-forms.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7038",
+            "parent_exercise_id": null,
+            "name": "flex-again",
+            "slug": "css_json__flex-again_json",
+            "sequence_num": 1600,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/css_json/flex-again.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7047",
+            "parent_exercise_id": null,
+            "name": "header-flex",
+            "slug": "css_json__header-flex_json",
+            "sequence_num": 1700,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/css_json/header-flex.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7048",
+            "parent_exercise_id": null,
+            "name": "sticky-header",
+            "slug": "css_json__sticky-header_json",
+            "sequence_num": 1800,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/css_json/sticky-header.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7042",
+            "parent_exercise_id": null,
+            "name": "sticky-footer",
+            "slug": "css_json__sticky-footer_json",
+            "sequence_num": 1900,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/css_json/sticky-footer.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7046",
+            "parent_exercise_id": null,
+            "name": "radio-buttons",
+            "slug": "css_json__radio-buttons_json",
+            "sequence_num": 2000,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/css_json/radio-buttons.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7041",
+            "parent_exercise_id": null,
+            "name": "whatsapp",
+            "slug": "css_json__whatsapp_json",
+            "sequence_num": 2100,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/css_json/whatsapp.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7045",
+            "parent_exercise_id": null,
+            "name": "se-reverra",
+            "slug": "css_json__se-reverra_json",
+            "sequence_num": 2200,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/css_json/se-reverra.json",
+            "submission_type": null,
+            "childExercises": []
+        }
+    ]
+}
